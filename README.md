@@ -6,6 +6,12 @@
 [![CI](https://github.com/rosenbjerg/FFMpegCore/workflows/CI/badge.svg)](https://github.com/rosenbjerg/FFMpegCore/actions/workflows/ci.yml)
 [![GitHub code contributors](https://img.shields.io/github/contributors/rosenbjerg/FFMpegCore)](https://github.com/rosenbjerg/FFMpegCore/graphs/contributors)
 
+Fork features
+-------------
+- Audio Effects Argument
+- Custom Input Arguments
+- Silence Audio as input
+
 A .NET Standard FFMpeg/FFProbe wrapper for easily integrating media analysis and conversion into your .NET applications. Supports both synchronous and asynchronous calls
 
 # API
